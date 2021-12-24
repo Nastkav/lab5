@@ -1,0 +1,6 @@
+D:\Workspace\GitRepository\domineering\domineering-game\bin\Debug\domineering-game.dll
+D:\Workspace\GitRepository\domineering\domineering-game\bin\Debug\domineering-game.pdb
+D:\Workspace\GitRepository\domineering\domineering-game\obj\Debug\domineering-game.csproj.AssemblyReference.cache
+D:\Workspace\GitRepository\domineering\domineering-game\obj\Debug\domineering-game.csproj.CoreCompileInputs.cache
+D:\Workspace\GitRepository\domineering\domineering-game\obj\Debug\domineering-game.dll
+D:\Workspace\GitRepository\domineering\domineering-game\obj\Debug\domineering-game.pdb
